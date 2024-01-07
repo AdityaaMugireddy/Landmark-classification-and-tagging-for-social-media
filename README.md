@@ -7,4 +7,4 @@ The high level steps of the project include:
 
 **Create a CNN to Classify Landmarks (using Transfer Learning) **- Next, we will investigate different pre-trained models and decide on one to use for this classification task. Along with training and testing this transfer-learned network, we will explain how we arrived at the pre-trained network we chose. We will also export we best transfer learning solution using Torch Script
 
-**Deploy we algorithm in an app** - Finally, we will use we best model to create a simple app for others to be able to use we model to find the most likely landmarks depicted in an image. We will also test out we model weself and reflect on the strengths and weaknesses of we model.
+**Deploy we algorithm in an app** - Finally, we will use we best model to create a simple app for others to be able to use we model to find the most likely landmarks depicted in an image. We will also test out the model and reflect on the strengths and weaknesses of we model.
